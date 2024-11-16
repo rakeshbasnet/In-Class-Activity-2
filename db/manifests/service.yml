@@ -5,7 +5,7 @@ metadata:
   namespace: db-namespace
 spec:
   selector:
-    id: c0916493
+    id: "c0916493"
   ports:
     - port: 3306
       targetPort: 3306

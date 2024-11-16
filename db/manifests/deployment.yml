@@ -7,11 +7,11 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      id: c0916493
+      id: "c0916493"
   template:
     metadata:
       labels:
-        id: c0916493
+        id: "c0916493"
         app: db-app
         env: dev
     spec:

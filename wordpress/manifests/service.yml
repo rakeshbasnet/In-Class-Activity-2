@@ -5,7 +5,7 @@ metadata:
   namespace: wp-namespace
 spec:
   selector:
-    id: c0916493
+    id: "c0916493"
   ports:
     - port: 80
       targetPort: 80
