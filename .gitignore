@@ -1,3 +1,4 @@
+.idea/
 db/manifests/.sops.yml
 db/manifests/secret-unencrypted.yml
 wordpress/manifests/.sops.yml
